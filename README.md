@@ -9,5 +9,7 @@ Create React App: a to-do list
 1. go the following website 
 * to create a project, run: 
 >npx create-react-app my-app
+
 >cd my-app
+
 >npm start
