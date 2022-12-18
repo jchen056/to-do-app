@@ -5,9 +5,9 @@ Create React App: a to-do list
 
 # resources
 [link] (https://reactjs.org/docs/create-a-new-react-app.html) 
-* environment setup
-1. go the following website 
-* to create a project, run: 
+1.  environment setup
+* go the following website 
+2. to create a project, run: 
 >npx create-react-app my-app
 
 >cd my-app
